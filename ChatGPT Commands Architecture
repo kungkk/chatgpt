@@ -1,0 +1,42 @@
+CHATGPT COMMAND LANGUAGE
+│
+├── 1. Navigation
+│   ├── /next
+│   ├── /continue
+│   └── /back
+│
+├── 2. Analysis
+│   ├── /check
+│   ├── /compare
+│   ├── /critique
+│   ├── /why
+│   └── /deep
+│
+├── 3. Transformation
+│   ├── /distill
+│   ├── /simplify
+│   ├── /refine
+│   ├── /improve
+│   └── /redo
+│
+├── 4. Knowledge
+│   ├── /explain
+│   ├── /examples
+│   ├── /research
+│   └── /verify
+│
+├── 5. Execution
+│   ├── /apply
+│   ├── /steps
+│   └── /do
+│
+├── 6. Storage
+│   ├── /store
+│   ├── /store exact
+│   └── /capture
+│
+└── 7. Control
+    ├── /list
+    ├── /status
+    ├── /reset
+    └── /help
