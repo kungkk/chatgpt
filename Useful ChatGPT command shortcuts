@@ -1,0 +1,29 @@
+| Command        | What it can mean                                  | Example                    |
+| -------------- | ------------------------------------------------- | -------------------------- |
+| `/next`        | Continue to the next logical step                 | `/next`                    |
+| `/check`       | Check accuracy, logic, completeness               | `/check`                   |
+| `/distill`     | Compress into essential knowledge                 | `/distill`                 |
+| `/apply`       | Turn knowledge into practical action              | `/apply`                   |
+| `/ultimate`    | Produce the most complete version                 | `/ultimate`                |
+| `/compare`     | Compare options systematically                    | `/compare A vs B`          |
+| `/explain`     | Explain clearly, usually from fundamentals        | `/explain RAG`             |
+| `/deep`        | Go deeper into mechanisms/reasoning               | `/deep`                    |
+| `/simplify`    | Make it easier to understand                      | `/simplify`                |
+| `/examples`    | Give concrete examples                            | `/examples`                |
+| `/why`         | Explain underlying reasons                        | `/why does this happen?`   |
+| `/how`         | Give a practical procedure                        | `/how do I...?`            |
+| `/steps`       | Convert into numbered steps                       | `/steps`                   |
+| `/table`       | Convert information into a table                  | `/table`                   |
+| `/summary`     | Summarize the current discussion                  | `/summary`                 |
+| `/distill`     | Extract reusable principles                       | `/distill`                 |
+| `/critique`    | Find weaknesses/problems                          | `/critique`                |
+| `/improve`     | Improve the current result                        | `/improve`                 |
+| `/redo`        | Generate a revised version                        | `/redo`                    |
+| `/refine`      | Make an existing answer more precise              | `/refine`                  |
+| `/research`    | Perform deeper research                           | `/research`                |
+| `/source`      | Identify supporting sources                       | `/source`                  |
+| `/verify`      | Fact-check important claims                       | `/verify`                  |
+| `/store`       | Save the result into a specified knowledge system | `/store exact into Notion` |
+| `/store exact` | Preserve wording rather than summarize            | `/store exact into Notion` |
+| `/list`        | List available items/options                      | `/list commands`           |
+| `/continue`    | Continue from the current stopping point          | `/continue`                |
